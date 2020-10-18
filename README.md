@@ -1,2 +1,2 @@
 # software-process-2020-2021-single
-software process single player tasks
+this repository will contain my single player tasks as part of the software processes uni course divided into folders per weeks
